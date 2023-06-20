@@ -1,6 +1,5 @@
 import numpy as np
 import torch
-import functorch
 
 
 class HyperNetwork(torch.nn.Module):
